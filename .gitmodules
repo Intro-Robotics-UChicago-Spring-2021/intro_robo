@@ -7,3 +7,6 @@
 [submodule "class_meeting_06_likelihood_field"]
 	path = class_meeting_06_likelihood_field
 	url = https://github.com/Intro-Robotics-UChicago-Spring-2021/class_meeting_06_likelihood_field.git
+[submodule "class_meeting_08_kinematics"]
+	path = class_meeting_08_kinematics
+	url = https://github.com/Intro-Robotics-UChicago-Spring-2021/class_meeting_08_kinematics
