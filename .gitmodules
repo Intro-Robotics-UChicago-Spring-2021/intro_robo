@@ -10,3 +10,6 @@
 [submodule "class_meeting_08_kinematics"]
 	path = class_meeting_08_kinematics
 	url = https://github.com/Intro-Robotics-UChicago-Spring-2021/class_meeting_08_kinematics
+[submodule "class_meeting_11_cat_recognition"]
+	path = class_meeting_11_cat_recognition
+	url = https://github.com/Intro-Robotics-UChicago-Spring-2021/class_meeting_11_cat_recognition
